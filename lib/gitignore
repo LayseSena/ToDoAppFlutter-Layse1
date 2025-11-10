@@ -1,0 +1,28 @@
+# Arquivos de Build e Cache do Flutter
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+.vscode/
+build/
+*.dart_tool
+*.iml
+*.iws
+*.ipr
+
+# Arquivos de Build do Android e iOS
+android/local.properties
+/ios/.symlinks/
+/ios/Flutter/Generated.xcconfig
+/ios/Pods/
+/ios/Runner.xcworkspace/
+/ios/Runner.xcodeproj/project.xcworkspace/
+/android/.gradle/
+/android/build/
+/android/app/build/
+/android/app/src/main/assets/flutter_assets/
+/android/app/.cxx/
+
+# Logs e arquivos temporários
+*.log
