@@ -18,8 +18,9 @@ O estado dos dados atualmente está em **memória (mock data)**, ou seja, sem ba
 
 Criado por: 
 
-Layse Sena Baptista RA: 2527799
+Layse Sena Baptista RA: 2527799        
 Gustavo Santos RA: 2025113446
+
 
 
 
