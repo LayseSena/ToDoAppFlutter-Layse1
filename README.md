@@ -12,11 +12,14 @@ O estado dos dados atualmente está em **memória (mock data)**, ou seja, sem ba
 ### ⚙️ Funcionalidades principais
 - CRUD básico (Create, Read, Update/Conclude, Delete) de tarefas  
 - Barra de busca para filtrar tarefas conforme digita  
-- Avatar interativo (ao clicar, a imagem é ampliada via `AlertDialog`)  
-- Uso de constantes para cores e estilos (`lib/constants/colors.dart`)  
+- Avatar interativo (ao clicar, a imagem é ampliada via `AlertDialog`)  - To do
 
 ---
 
+Criado por: 
+
+Layse Sena Baptista RA: 2527799
+Gustavo Santos RA: 2025113446
 
 
 
